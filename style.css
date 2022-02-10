@@ -1,0 +1,113 @@
+
+		.sayfa{
+			
+			width:500px;
+            height: 600px;
+			
+		}
+		table{
+			
+            background:#ffffff;
+			border-spacing: 10px;
+			text-align: center;
+		}
+		
+		table .btnnum{
+			width: 60px;
+            border-radius: 45px;
+			background: linear-gradient(137deg, rgb(212, 96, 0) 0%, rgb(250, 160, 86) 62%, rgb(255, 115, 0) 100%);
+            border: rgb(0, 0, 0) solid 2px;
+            
+			text-align: center;
+			line-height: 60px;
+			color:#fff;
+			font-size: 40px;
+            cursor:pointer;
+		}
+		#islem, #gosterge{
+			height: 60px;
+            padding:5px;
+			text-align: right;
+            color: rgb(114, 114, 114);
+		}
+		
+		#gosterge{
+			height: 60px;
+			background:#ffffff;
+			color:#333;
+			font-size: 1.8em;
+			text-align: right;
+			line-height: 40px;
+			padding:10px;
+            
+			
+		}
+		#islem{
+			background: rgb(255, 255, 255);
+		}
+.btn2op{
+    background: linear-gradient(137deg, rgba(0,0,0,1) 0%, rgb(88, 88, 88) 62%, rgba(10,10,10,1) 100%);
+    border-radius: 200px;
+    width: 65px;
+    font-size: 35px;
+    cursor:pointer;
+    color: #fff;
+}
+
+.btn2{
+    background: linear-gradient(137deg, rgba(0,0,0,1) 0%, rgb(88, 88, 88) 62%, rgba(10,10,10,1) 100%);
+    border-radius: 200px;
+    width: 65px;
+    font-size: 35px;
+    cursor:pointer;
+    color: #fff;
+}
+.btnc{
+    background: linear-gradient(137deg, rgba(0,0,0,1) 0%, rgb(88, 88, 88) 62%, rgba(10,10,10,1) 100%);
+    border-radius: 200px;
+    width: 65px;
+    font-size: 35px;
+    cursor:pointer;
+    color: #fff;
+}
+.btnac{
+    background: linear-gradient(137deg, rgba(0,0,0,1) 0%, rgb(88, 88, 88) 62%, rgba(10,10,10,1) 100%);
+    border-radius: 200px;
+    width: 65px;
+    font-size: 35px;
+    cursor:pointer;
+    color: #fff;
+}
+.btnesit{
+    background: linear-gradient(137deg, rgba(0,0,0,1) 0%, rgb(88, 88, 88) 62%, rgba(10,10,10,1) 100%);
+    border-radius: 200px;
+    width: 65px;
+    font-size: 35px;
+    cursor:pointer;
+    color: #fff;
+}
+.btn2nokta{
+    background: linear-gradient(137deg, rgba(0,0,0,1) 0%, rgb(88, 88, 88) 62%, rgba(10,10,10,1) 100%);
+    border-radius: 200px;
+    width: 65px;
+    font-size: 35px;
+    cursor:pointer;
+    color: #fff;
+}
+
+*:not(input):not(textarea) {
+	-moz-user-select: -moz-none;
+	-khtml-user-select: none;
+	-webkit-user-select: none;
+	-o-user-select: none;
+	-ms-user-select: none;
+	user-select: none
+}
+
+.btnnum:hover{
+    background: linear-gradient(137deg, rgba(0,0,0,1) 0%, rgb(88, 88, 88) 62%, rgba(10,10,10,1) 100%);
+    text-shadow: #333;
+}
+
+
+
